@@ -1,6 +1,7 @@
-*{
-    color:white;
+* {
+    color: white;
 }
+
 body {
     margin: 0vh 20vh 0vh 20vh;
 }
@@ -28,6 +29,13 @@ h1 {
     text-align: center;
 }
 
-#anivtext{
+#anivtext {
     display: none;
+}
+
+.background {
+    background-color: transparent;
+    background-image: url(https://www.123cartes.com/wp-content/uploads/2016/05/carte-joyeux-anniversaire-confettis.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
