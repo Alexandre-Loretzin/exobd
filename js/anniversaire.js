@@ -1,6 +1,3 @@
-
-let clickBoite = $('.clickBoite')
-
 $("#clickBoite1").on("click", function () {
     $(this).fadeOut()
     $("#clickBoite2").fadeIn().on("click", function () {
