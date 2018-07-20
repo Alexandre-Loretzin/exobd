@@ -1,0 +1,33 @@
+*{
+    color:white;
+}
+body {
+    margin: 0vh 20vh 0vh 20vh;
+}
+
+.content {
+    background-color: mediumpurple;
+    padding: 20vh;
+    height: 50vh;
+}
+
+.clickBoite {
+    border: solid white 4px;
+    padding: 20px;
+}
+
+#clickBoite2 {
+    display: none;
+}
+
+#clickBoite3 {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+#anivtext{
+    display: none;
+}
