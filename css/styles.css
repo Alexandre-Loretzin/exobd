@@ -15,22 +15,23 @@ body {
 .clickBoite {
     border: solid white 4px;
     padding: 20px;
+    position: relative;
 }
-
+#clickBoite1{
+    opacity: 1;
+}
 #clickBoite2 {
     display: none;
+    position: relative;
 }
 
 #clickBoite3 {
     display: none;
+    position: relative;
 }
 
 h1 {
     text-align: center;
-}
-
-#anivtext {
-    display: none;
 }
 
 .background {
